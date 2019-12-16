@@ -14,12 +14,6 @@ return_key = nil
  
    mk = a_value 
    return_key = key
-#  elsif mk > 500 || mk == 500
-#  puts "you are too big"
-# elsif mk == 1 
-# puts "You are the smallest number"
-  
-# 
 end
  end
  end
