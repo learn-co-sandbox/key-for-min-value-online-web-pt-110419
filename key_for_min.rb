@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
 mk = 0
 return_key = nil
  name_hash.each do |key, a_value|
- 
+ if a_
 #    a_value
 #  elsif mk > 500 || mk == 500
 #  puts "you are too big"
