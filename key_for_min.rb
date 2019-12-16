@@ -4,8 +4,9 @@ require 'pry'
 def key_for_min_value(name_hash)
  # binding.pry
 mk = 0
- name_hash.collect do |a_value|
-#  if mk == 1
+return_key = nil
+ name_hash.each do |key, a_value|
+ 
 #    a_value
 #  elsif mk > 500 || mk == 500
 #  puts "you are too big"
